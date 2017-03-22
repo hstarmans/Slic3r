@@ -59,7 +59,7 @@ If you want to compile the source yourself just do the following (checkout
 [slic3r.org](http://slic3r.org/download) for more details):
 
 ```
-$ git clone https://github.com/alexrj/Slic3r.git
+$ git clone https://github.com/prusa3d/Slic3r
 $ cd Slic3r
 $ perl Build.PL --sudo
 $ perl Build.PL --sudo --gui
